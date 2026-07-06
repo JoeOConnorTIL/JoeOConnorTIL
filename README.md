@@ -8,12 +8,15 @@ Before transitioning into tech, I spent nine years as an officer in the Metropol
 
 ## 🎖️ Certifications
 
-Here are the credentials I have completed so far across the data stack:
+My current certifications:
 
-[![dbt Fundamentals](https://img.shields.io/badge/dbt_Labs-dbt_Fundamentals-orange?style=flat-square&logo=dbt)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128873922)
-[![Tableau Certified Data Analyst](https://img.shields.io/badge/Tableau-Certified_Data_Analyst-blue?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/joseph.o.connor2848/vizzes)
-[![Power BI Data Analyst Associate](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst_Associate-yellow?style=flat-square&logo=microsoft-power-bi)](https://learn.microsoft.com/en-us/users/joeoconnor/)
-[![Alteryx Core Certified](https://img.shields.io/badge/Alteryx-Core_Certified-orange?style=flat-square)](https://www.alteryx.com/)
+<div align="left">
+
+  <img src="https://img.shields.io/badge/dbt-FF8200?style=for-the-badge&logo=dbt&logoColor=white">
+  <img src="https://img.shields.io/badge/Alteryx-00A3CC?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-0052CC?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+<div>
 
 ---
 
