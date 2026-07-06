@@ -10,7 +10,7 @@ Before transitioning into tech, I spent nine years as an officer in the Metropol
 
 Here are the credentials I have completed so far across the data stack:
 
-[![dbt Fundamentals](https://img.shields.io/badge/dbt_Labs-dbt_Fundamentals-orange?style=flat-square&logo=dbt)](https://credentials.dbtlabs.com/128873922)
+[![dbt Fundamentals](https://img.shields.io/badge/dbt_Labs-dbt_Fundamentals-orange?style=flat-square&logo=dbt)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128873922)
 [![Tableau Certified Data Analyst](https://img.shields.io/badge/Tableau-Certified_Data_Analyst-blue?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/joseph.o.connor2848/vizzes)
 [![Power BI Data Analyst Associate](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst_Associate-yellow?style=flat-square&logo=microsoft-power-bi)](https://learn.microsoft.com/en-us/users/joeoconnor/)
 [![Alteryx Core Certified](https://img.shields.io/badge/Alteryx-Core_Certified-orange?style=flat-square)](https://www.alteryx.com/)
